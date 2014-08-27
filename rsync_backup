@@ -1,0 +1,4 @@
+#!/bin/bash
+rsync -avp --delete /etc /media/backup/local
+rsync -avp --delete /var /media/backup/local
+rsync -avp --delete /home /media/backup/local
