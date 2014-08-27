@@ -1,4 +1,4 @@
-scripts_basic
+scripts
 =============
 just some basic scripts that i've created to use on my linux servers. 
 nothing, at all, complicated.
